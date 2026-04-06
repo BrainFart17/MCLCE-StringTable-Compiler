@@ -19,3 +19,4 @@ These two functions can be used to turn languages.loc / strings.h into xml (rest
 
 ### License
 The contents of index.js are AI generated and cannot be copyrighted. Use them however you wish, I literally do not care what you do with it. However, the code does work.
+The additions in this fork were also fully AI generated.
