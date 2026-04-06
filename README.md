@@ -13,7 +13,7 @@ This will generate a `strings.h` and `languages.loc` file based on the data in t
 ```
 node index.js restore languages.loc strings.h
 ```
-This will generate xml files based on the contents of langauges.loc and strings.h in the same directory. 
+This will generate xml files based on the contents of langauges.loc and strings.h files located in the same directory. The output is "restored" by default
 
 These two functions can be used to turn languages.loc / strings.h into xml (restore), edit the xml, then turn it back into languages.loc / strings.h (build).
 
